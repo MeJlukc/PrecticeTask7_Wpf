@@ -1,0 +1,600 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator29.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator29.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator27.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator27.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator25.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator25.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\classes\\calculator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:classes\\calculator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\view\\pages\\task19page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:view\\pages\\task19page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\view\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:view\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|c:\\users\\yaroslalalalave\\source\\repos\\practicetask7_wpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2DF39DE-98B9-4D55-8817-3377138681FD}|PracticeTask7.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator9.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator9.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator9.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator9.cs",
+              "RelativeToolTip": "classes\\Calculator9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:03:14.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator8.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator8.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator8.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator8.cs",
+              "RelativeToolTip": "classes\\Calculator8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:03:12.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator7.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator7.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator7.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator7.cs",
+              "RelativeToolTip": "classes\\Calculator7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:03:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator6.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator6.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator6.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator6.cs",
+              "RelativeToolTip": "classes\\Calculator6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:03:06.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator5.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator5.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator5.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator5.cs",
+              "RelativeToolTip": "classes\\Calculator5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:03:01.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculator4.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator4.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator4.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator4.cs",
+              "RelativeToolTip": "classes\\Calculator4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:57.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator30.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator30.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator30.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator30.cs",
+              "RelativeToolTip": "classes\\Calculator30.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:54.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculator3.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator3.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator3.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator3.cs",
+              "RelativeToolTip": "classes\\Calculator3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:51.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calculator29.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator29.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator29.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator29.cs",
+              "RelativeToolTip": "classes\\Calculator29.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:49.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calculator28.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator28.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator28.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator28.cs",
+              "RelativeToolTip": "classes\\Calculator28.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:47.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Calculator27.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator27.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator27.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator27.cs",
+              "RelativeToolTip": "classes\\Calculator27.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:45.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Calculator25.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator25.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator25.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator25.cs",
+              "RelativeToolTip": "classes\\Calculator25.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:42.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Calculator26.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator26.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator26.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator26.cs",
+              "RelativeToolTip": "classes\\Calculator26.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:39.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Calculator24.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator24.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator24.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator24.cs",
+              "RelativeToolTip": "classes\\Calculator24.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:37.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Calculator22.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator22.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator22.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator22.cs",
+              "RelativeToolTip": "classes\\Calculator22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:35.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Calculator23.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator23.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator23.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator23.cs",
+              "RelativeToolTip": "classes\\Calculator23.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:33.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Calculator21.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator21.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator21.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator21.cs",
+              "RelativeToolTip": "classes\\Calculator21.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:31.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Calculator20.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator20.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator20.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator20.cs",
+              "RelativeToolTip": "classes\\Calculator20.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:28.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Calculator2.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator2.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator2.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator2.cs",
+              "RelativeToolTip": "classes\\Calculator2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:25.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Calculator19.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator19.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator19.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator19.cs",
+              "RelativeToolTip": "classes\\Calculator19.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:21.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Calculator18.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator18.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator18.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator18.cs",
+              "RelativeToolTip": "classes\\Calculator18.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:18.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Calculator17.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator17.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator17.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator17.cs",
+              "RelativeToolTip": "classes\\Calculator17.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Calculator16.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator16.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator16.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator16.cs",
+              "RelativeToolTip": "classes\\Calculator16.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:14.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Calculator15.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator15.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator15.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator15.cs",
+              "RelativeToolTip": "classes\\Calculator15.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:11.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Calculator14.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator14.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator14.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator14.cs",
+              "RelativeToolTip": "classes\\Calculator14.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:01:17.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Calculator13.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator13.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator13.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator13.cs",
+              "RelativeToolTip": "classes\\Calculator13.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:01:13.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Calculator12.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator12.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator12.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator12.cs",
+              "RelativeToolTip": "classes\\Calculator12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:01:09.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Calculator11.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator11.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator11.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator11.cs",
+              "RelativeToolTip": "classes\\Calculator11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:01:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Calculator10.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator10.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator10.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator10.cs",
+              "RelativeToolTip": "classes\\Calculator10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:01:01.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Calculator1.cs",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator1.cs",
+              "RelativeDocumentMoniker": "classes\\Calculator1.cs",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\classes\\Calculator1.cs",
+              "RelativeToolTip": "classes\\Calculator1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:00:53.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Task19Page.xaml",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\view\\Pages\\Task19Page.xaml",
+              "RelativeDocumentMoniker": "view\\Pages\\Task19Page.xaml",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\view\\Pages\\Task19Page.xaml",
+              "RelativeToolTip": "view\\Pages\\Task19Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T00:59:10.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\view\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "view\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\view\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "view\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T00:59:05.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\view\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "view\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Yaroslalalalave\\source\\repos\\PracticeTask7_Wpf\\view\\MainWindow.xaml",
+              "RelativeToolTip": "view\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T00:58:01.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
